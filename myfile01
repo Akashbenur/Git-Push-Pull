@@ -1,0 +1,7 @@
+Push / Pull
+1.apt install git -y
+2.which git
+3.git --version
+4.mkdir Mumbai01
+5.git init
+6.vi myfile01
