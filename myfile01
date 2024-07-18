@@ -5,3 +5,20 @@ Push / Pull
 4.mkdir Mumbai01
 5.git init
 6.vi myfile01
+7.git status
+8.git add .
+9.git commit -m " Lord Shiv "
+10.git log
+11.git show
+12.git remote add origin (git hub Url)
+13.git push -u origin master
+
+Pull
+1.apt install git -y
+2.which git
+3.mkdir Singapore01
+4.cd singapore
+5.git init
+6.git remote add origin (gut hub Url)
+7.cat filename01
+8.vi myfile01
